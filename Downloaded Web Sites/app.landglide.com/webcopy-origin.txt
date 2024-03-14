@@ -1,0 +1,52 @@
+Uri: https://app.landglide.com/
+File Name: C:\Downloaded Web Sites\app.landglide.com\index.htm
+Content Type: text/html
+
+Uri: https://app.landglide.com/%23c
+File Name: C:\Downloaded Web Sites\app.landglide.com\#c.html
+Content Type: text/html
+
+Uri: https://app.landglide.com/app.673950ecc8b2eb9bc822.css
+File Name: C:\Downloaded Web Sites\app.landglide.com\app.673950ecc8b2eb9bc822.css
+Content Type: text/css
+
+Uri: https://app.landglide.com/app.971bd710d1bc311bf251.js
+File Name: C:\Downloaded Web Sites\app.landglide.com\app.971bd710d1bc311bf251.js
+Content Type: application/javascript
+
+Uri: https://app.landglide.com/chunk-vendors.7a0226b5b62b6647be24.css
+File Name: C:\Downloaded Web Sites\app.landglide.com\chunk-vendors.7a0226b5b62b6647be24.css
+Content Type: text/css
+
+Uri: https://app.landglide.com/favicon.png
+File Name: C:\Downloaded Web Sites\app.landglide.com\favicon.png
+Content Type: image/png
+
+Uri: https://app.landglide.com/img/icon_droparrow.b3e209f9.svg
+File Name: C:\Downloaded Web Sites\app.landglide.com\img\icon_droparrow.b3e209f9.svg
+Content Type: image/svg+xml
+
+Uri: https://app.landglide.com/img/icon_search.bbe844c2.svg
+File Name: C:\Downloaded Web Sites\app.landglide.com\img\icon_search.bbe844c2.svg
+Content Type: image/svg+xml
+
+Uri: https://app.landglide.com/img/remove_tag_icon.f9da9620.svg
+File Name: C:\Downloaded Web Sites\app.landglide.com\img\remove_tag_icon.f9da9620.svg
+Content Type: image/svg+xml
+
+Uri: https://app.landglide.com/js/chunk-vendors.9e53064f.js
+File Name: C:\Downloaded Web Sites\app.landglide.com\js\chunk-vendors.9e53064f.js
+Content Type: application/javascript
+
+Uri: https://landglide.com/wp-content/themes/landglide/static/img/checkmark-bullet.png
+File Name: C:\Downloaded Web Sites\app.landglide.com\wp-content\themes\landglide\static\img\checkmark-bullet.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js
+File Name: C:\Downloaded Web Sites\app.landglide.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-KDDC9GN
+File Name: C:\Downloaded Web Sites\app.landglide.com\ns.html
+Content Type: text/html
+
